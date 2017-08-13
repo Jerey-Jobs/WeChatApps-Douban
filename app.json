@@ -12,25 +12,20 @@
     "navigationBarTextStyle":"white"
   },
   "tabBar": {
-    "color":"#ccc",
+    "color":"#f1f1f1",
     "backgroundColor":"#000",
     "list": [{
         "text":"推荐电影",
-        "iconPath": "image/movie.png",
-        "selectedIconPath": "image/movie_a.png",
+        "iconPath": "image/m1.png",
+        "selectedIconPath": "image/m1.png",
         "pagePath": "pages/index/index"
       },
       {
         "text":"搜索",
-        "iconPath": "image/search.png",
-        "selectedIconPath": "image/search_a.png",
+        "iconPath": "image/s0.png",
+        "selectedIconPath": "image/s1.png",
         "pagePath": "pages/search/search"
-      },
-      {
-        "pagePath": "pages/profile/profile",
-        "text": "我的",
-        "iconPath": "image/user.png",
-        "selectedIconPath": "image/user_a.png"
-      }]
+      }
+    ]
   }
 }
