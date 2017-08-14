@@ -3,7 +3,9 @@
 
 微信小程序：电影推荐搜索 可在小程序里面搜索到
 
-![](image/pic2.png)![](image/pic3.png)!![](image/pic_1.png)
+![](/image/pic2.png)
+![](/image/pic3.png)
+![](/image/pic_1.png)
 
 
 -------
